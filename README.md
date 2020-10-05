@@ -115,8 +115,6 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-## Available Scripts
-
 In the project directory, you can run:
 
 ```sh
