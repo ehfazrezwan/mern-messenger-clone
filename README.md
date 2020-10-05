@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, mern-messenger-clone, twitter_handle, email
+*** github_username, mern-messenger-clone-frontend, twitter_handle, email
 -->
 
 
@@ -34,7 +34,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ehfazrezwan/mern-messenger-clone">
+  <a href="https://github.com/ehfazrezwan/mern-messenger-clone-frontend">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -43,14 +43,14 @@
   <p align="center">
     Full stack clone project of the Facebook Messenger web app. The frontend is a cloned copy of https://github.com/drakosi99/messenger-mern-starter-project - a REACT.js app, whereas the backend is a custom implementation by yours truly. Using MERN as the tech stack here.
     <br />
-    <a href="https://github.com/ehfazrezwan/mern-messenger-clone"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ehfazrezwan/mern-messenger-clone-frontend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ehfazrezwan/mern-messenger-clone">View Demo</a>
+    <a href="https://github.com/ehfazrezwan/mern-messenger-clone-frontend">View Demo</a>
     ·
-    <a href="https://github.com/ehfazrezwan/mern-messenger-clone/issues">Report Bug</a>
+    <a href="https://github.com/ehfazrezwan/mern-messenger-clone-frontend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ehfazrezwan/mern-messenger-clone/issues">Request Feature</a>
+    <a href="https://github.com/ehfazrezwan/mern-messenger-clone-frontend/issues">Request Feature</a>
   </p>
 </p>
 
@@ -101,11 +101,11 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/ehfazrezwan/mern-messenger-clone.git
+git clone https://github.com/ehfazrezwan/mern-messenger-clone-frontend.git
 ```
 2. Go into project directory
 ```sh
-cd mern-messenger-clone
+cd mern-messenger-clone-frontend
 ```
 3. Install node dependencies
 ```sh
@@ -194,7 +194,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/ehfazrezwan/mern-messenger-clone/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/ehfazrezwan/mern-messenger-clone-frontend/issues) for a list of proposed features (and known issues).
 
 
 
@@ -223,7 +223,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Ehfaz Rezwan - [@ehfazrezwan](https://www.linkedin.com/in/ehfaz-rezwan/) - ehfaz.rezwan@gmail.com
 
-Project Link: [https://github.com/ehfazrezwan/mern-messenger-clone](https://github.com/ehfazrezwan/mern-messenger-clone)
+Project Link: [https://github.com/ehfazrezwan/mern-messenger-clone-frontend](https://github.com/ehfazrezwan/mern-messenger-clone-frontend)
 
 
 
@@ -237,16 +237,16 @@ Project Link: [https://github.com/ehfazrezwan/mern-messenger-clone](https://gith
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ehfazrezwan/mern-messenger-clone
-[contributors-url]: https://github.com/ehfazrezwan/mern-messenger-clone/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ehfazrezwan/mern-messenger-clone
-[forks-url]: https://github.com/ehfazrezwan/mern-messenger-clone/network/members
-[stars-shield]: https://img.shields.io/github/stars/ehfazrezwan/mern-messenger-clone
-[stars-url]: https://github.com/ehfazrezwan/mern-messenger-clone/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ehfazrezwan/mern-messenger-clone
-[issues-url]: https://github.com/ehfazrezwan/mern-messenger-clone/issues
-[license-shield]: https://img.shields.io/github/license/ehfazrezwan/mern-messenger-clone
-[license-url]: https://github.com/ehfazrezwan/mern-messenger-clone/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ehfazrezwan/mern-messenger-clone-frontend
+[contributors-url]: https://github.com/ehfazrezwan/mern-messenger-clone-frontend/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ehfazrezwan/mern-messenger-clone-frontend
+[forks-url]: https://github.com/ehfazrezwan/mern-messenger-clone-frontend/network/members
+[stars-shield]: https://img.shields.io/github/stars/ehfazrezwan/mern-messenger-clone-frontend
+[stars-url]: https://github.com/ehfazrezwan/mern-messenger-clone-frontend/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ehfazrezwan/mern-messenger-clone-frontend
+[issues-url]: https://github.com/ehfazrezwan/mern-messenger-clone-frontend/issues
+[license-shield]: https://img.shields.io/github/license/ehfazrezwan/mern-messenger-clone-frontend
+[license-url]: https://github.com/ehfazrezwan/mern-messenger-clone-frontend/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ehfazrezwan
 [product-screenshot]: images/app.png
