@@ -38,7 +38,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">MERN Stack clone of Facebook Messenger App</h3>
+  <h3 align="center">MERN Stack clone of Facebook Messenger App (Frontend)</h3>
 
   <p align="center">
     Full stack clone project of the Facebook Messenger web app. The frontend is a cloned copy of https://github.com/drakosi99/messenger-mern-starter-project - a REACT.js app, whereas the backend is a custom implementation by yours truly. Using MERN as the tech stack here.
@@ -77,7 +77,7 @@
 
 [![Product Name Screen Shot][product-screenshot]]()
 
-Baclkend implementation and integration into a React-based Facebook Messenger clone.
+Backend implementation and integration into a React-based Facebook Messenger clone. Starter project used Firebase as the backend - but this implementation is going to use a custom backend written using MongoDB, ExpressJS and NodeJS.
 
 ### Built With
 
