@@ -31,11 +31,11 @@ function App() {
   const sendMessage = (e) => {
     e.preventDefault();
 
-    // db.collection("messages").add({
-    //   message: input,
-    //   username: username,
-    //   timestamp: firebase.firestore.FieldValue.serverTimestamp(),
-    // });
+    axios.post("/save/message", {
+      username: username,
+      message: input,
+      timestamp: Date.now(),
+    });
 
     setInput("");
   };
