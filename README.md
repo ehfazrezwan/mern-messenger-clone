@@ -10,10 +10,6 @@
 *** github_username, mern-messenger-clone-frontend, twitter_handle, email
 -->
 
-
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -22,14 +18,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -41,12 +36,12 @@
   <h3 align="center">MERN Stack clone of Facebook Messenger App (Frontend)</h3>
 
   <p align="center">
-    Full stack clone project of the Facebook Messenger web app. The frontend is a cloned copy of https://github.com/drakosi99/messenger-mern-starter-project - a REACT.js app, whereas the backend is a custom implementation by yours truly. Using MERN as the tech stack here.
+    Full stack clone project of the Facebook Messenger web app. The frontend is a cloned copy of https://github.com/drakosi99/messenger-mern-starter-project - a REACT.js app, whereas the backend is a custom implementation by yours truly. Using MERN as the tech stack here. Super bare-bones with only base functionalities - with plans to expand functionalities using the latest and greatest in tech stacks.
     <br />
     <a href="https://github.com/ehfazrezwan/mern-messenger-clone-frontend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ehfazrezwan/mern-messenger-clone-frontend">View Demo</a>
+    <a href="https://mern-messenger-clone-ec780.web.app/">View Demo</a>
     ·
     <a href="https://github.com/ehfazrezwan/mern-messenger-clone-frontend/issues">Report Bug</a>
     ·
@@ -54,45 +49,41 @@
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]]()
 
-Backend implementation and integration into a React-based Facebook Messenger clone. Starter project used Firebase as the backend - but this implementation is going to use a custom backend written using MongoDB, ExpressJS and NodeJS.
+Backend implementation and integration into a React-based Facebook Messenger clone. Starter project used Firebase as the backend - but this implementation is going to use a custom backend written using MongoDB, ExpressJS and NodeJS. Made use of Pusher-JS to act as the broker for WebSocket communication. The backend is deployed on Heroku, while the frontend is hosted on Firebase.
 
 ### Built With
 
-* [MongoDB](https://www.mongodb.com/)
-* [Express](https://expressjs.com/)
-* [ReactJS](https://reactjs.org/)
-* [NodeJS](https://nodejs.org/en/)
-* [JavaScript ES6/ES2015](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [CSS3](https://www.w3.org/Style/CSS/)
-
-
-
-
+- [MongoDB](https://www.mongodb.com/)
+- [Express](https://expressjs.com/)
+- [ReactJS](https://reactjs.org/)
+- [NodeJS](https://nodejs.org/en/)
+- [PusherJS](https://pusher.com/)
+- [JavaScript ES6/ES2015](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [CSS3](https://www.w3.org/Style/CSS/)
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
@@ -100,19 +91,25 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 1. Clone the repo
+
 ```sh
 git clone https://github.com/ehfazrezwan/mern-messenger-clone-frontend.git
 ```
+
 2. Go into project directory
+
 ```sh
 cd mern-messenger-clone-frontend
 ```
+
 3. Install node dependencies
+
 ```sh
 npm install
 ```
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 In the project directory, you can run:
@@ -137,7 +134,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ```sh
 npm run build
 ```
-
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -189,16 +185,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 See the [open issues](https://github.com/ehfazrezwan/mern-messenger-clone-frontend/issues) for a list of proposed features (and known issues).
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -209,34 +203,29 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Ehfaz Rezwan - [@ehfazrezwan](https://www.linkedin.com/in/ehfaz-rezwan/) - ehfaz.rezwan@gmail.com
 
 Project Link: [https://github.com/ehfazrezwan/mern-messenger-clone-frontend](https://github.com/ehfazrezwan/mern-messenger-clone-frontend)
 
-
-
 <!-- ACKNOWLEDGEMENTS -->
+
 ## Acknowledgements
 
-* [CleverProgrammer - Rafeh Qazi](https://github.com/CleverProgrammer)
-
-
-
+- [CleverProgrammer - Rafeh Qazi](https://github.com/CleverProgrammer)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/ehfazrezwan/mern-messenger-clone-frontend
 [contributors-url]: https://github.com/ehfazrezwan/mern-messenger-clone-frontend/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ehfazrezwan/mern-messenger-clone-frontend
